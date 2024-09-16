@@ -1,9 +1,15 @@
 # Profile
 
-### Work Experience 
+## Technical Skills
+- **Programming & Tools:** Python (Packages: Numpy, Pandas, ScikitLearn, Seaborn, Matplotlib), SQL, Excel, Jupyter Notebooks, Visual Studio Code, Git, Google Workspace.
+- **Machine Learning:** Supervised/Unsupervised Learning, Regression, Classification, Decision Trees, Random Forest, Clustering. 
+- **Data Analysis and Visualization:** Feature Engineering, Statistical Analysis, Data-Driven Decision Making.
+- **Other Skills:** Strategic Planning, Process Optimization, Automation, Cross-Department Collaboration.
+
+## Work Experience 
+
 **Jr. Business Development and Operations Manager @Pipeline.gg**
 (_May 2022 - March 2023_)
------------------------------------------------------------------
 - Utilized data-driven approaches to generate and monitor KPIs aligned with business objectives, providing leadership with real-time insights for agile decision-making and strategy adjustments.
 - Conducted in-depth customer behavior analysis, leading to a 3x increase in website conversion rates and a 50% boost in weekly new visitors by aligning business value propositions with customer pain points.
 - Streamlined operations by simplifying tasks and creating an accessible "how-to" database. This initiative freed up 20% of team time, reduced processing times by up to 80%, and nurtured task ownership, enhancing overall efficiency.
