@@ -24,12 +24,18 @@
 - Integrated social campaigns into tourism routes, allocating 20% of revenue to causes like rehabilitation and women empowerment. This approach generated over 10,000 euros, built partnerships with academic institutions, and increased awareness of sustainability in tourism.
 - Validated our business concept through iterative testing. Using a mix of cold and warm outreach, I successfully connected with leading European tourism universities known for travel-related education programs.
 
+### Projects 
+- Project Notebooks: This repository contains several small-scale project notebooks that demonstrate skills in Python and SQL for Data Science. 
+- Ames Housing Data (In progress): ML project that predicts a house price using historical sales data, project uses linear regression models and decision tree algorithms. 
+- Building a Fitness Tracker (In Progress): Process, visualize, and model accelerometer and gyroscope data to create a machine learning model that can classify barbell exercises and count repetitions (code along).
 
 ### Education 
 BSc. Business Management | Nova School of Business and Economics (_January 2020_) 
 
-
-
-### Projects 
-- Project 1
-- Project 2
+### Courses and Certifications
+- Data Analyst Associate by Data Camp. Credential ID: DAA0014473618699
+- Data Scientist by Data Camp (In Progress) - Est. completion: October 2024
+- Python For Machine Learning and Data Science by José Portilla.
+- SQL Bootcamp by José Portilla.
+- Python Bootcamp by José
+- Excel Specialist Certification by Microsoft.
