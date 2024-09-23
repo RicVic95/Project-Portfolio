@@ -1,0 +1,10 @@
+""" This section contains a selection of small-scale project notebooks that demonstrate skills for Data Science and Machine Learning using PostgreSQL, as well as Python with the following Libraries: 
+- Pandas
+- Numpy 
+- Seaborn 
+- Matplotlib 
+- Scipy 
+- Scikit-Learn 
+
+The folder names follow the format - "(Libraries)_Skill-Project_title" and contain all necessary resources and code to replicate the results shown in the notebooks. 
+
