@@ -25,7 +25,7 @@
 - Validated our business concept through iterative testing. Using a mix of cold and warm outreach, I successfully connected with leading European tourism universities known for travel-related education programs.
 
 ### Data Science Projects 
-- Project Notebooks: This repository contains several small-scale project notebooks that demonstrate skills in Python and SQL for Data Science. [Repository](https://github.com/RicVic95/portfolio)
+- Project Notebooks: Series of small-scale projects focused on key data science methodologies and applications. Each notebook demonstrates end-to-end workflows, from data preprocessing and exploratory data analysis to model selection and evaluation. Projects include work with supervised and unsupervised learning algorithms, SQL and data analysis and visualization. [Repository](https://github.com/RicVic95/portfolio)
 - Predicting Customer Churn (In Progress): Developing supervised learning models to predict customer churn for a telecom company, utilizing algorithms such as Random Forests, Voting Classifier, Decision Trees, and Logistic Regression. [Repository](https://github.com/RicVic95/BinaryClassification)
 - Building a Fitness Tracker (In Progress): Process, visualize, and model accelerometer and gyroscope data to create a machine learning model that can classify barbell exercises and count repetitions (code along). [Repository](https://github.com/RicVic95/Fitness-Tracker)
 
