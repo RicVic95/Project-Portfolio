@@ -34,7 +34,7 @@ BSc. Business Management | Nova School of Business and Economics (_January 2020_
 
 ### Courses and Certifications
 - Data Analyst Associate by Data Camp. Credential ID: DAA0014473618699
-- Data Scientist by Data Camp (In Progress) - Est. completion: October 2024
+- Data Scientist by Data Camp. (Certification in Progress)
 - Python For Machine Learning and Data Science by José Portilla.
 - SQL Bootcamp by José Portilla.
 - Python Bootcamp by José
