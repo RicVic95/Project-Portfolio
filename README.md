@@ -26,7 +26,7 @@
 
 ### Data Science Projects 
 - Project Notebooks: This repository contains several small-scale project notebooks that demonstrate skills in Python and SQL for Data Science. [Repository](https://github.com/RicVic95/portfolio)
-- Ames Housing Data (In progress): ML project that predicts a house price using historical sales data, project uses linear regression models and decision tree algorithms. [Repository](https://github.com/RicVic95/Ames-Housing-Data)
+- Predicting Customer Churn (In Progress): Developing supervised learning models to predict customer churn for a telecom company, utilizing algorithms such as Random Forests, Voting Classifier, Decision Trees, and Logistic Regression. [Repository](https://github.com/RicVic95/BinaryClassification)
 - Building a Fitness Tracker (In Progress): Process, visualize, and model accelerometer and gyroscope data to create a machine learning model that can classify barbell exercises and count repetitions (code along). [Repository](https://github.com/RicVic95/Fitness-Tracker)
 
 ### Education 
