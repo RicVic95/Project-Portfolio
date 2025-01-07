@@ -1,12 +1,14 @@
 # Profile
 
-Data-driven professional with a strong foundation in Business Development and Operations, now transitioning into Data Science. Proficient in Python, SQL, and Machine Learning, with experience in generating insights from data to solve business challenges. Adept at analyzing data, optimizing processes, and automating workflows to support strategic decision-making. Skilled communicator, with the ability to translate complex data into actionable insights for stakeholders.
+---
 
 ## Technical Skills
 - **Programming & Tools:** Python (Packages: Numpy, Pandas, ScikitLearn, Seaborn, Matplotlib), SQL, Excel, Jupyter Notebooks, Visual Studio Code, Git, Google Workspace.
 - **Machine Learning:** Supervised/Unsupervised Learning, Regression, Classification, Decision Trees, Random Forest, Clustering. 
 - **Data Analysis and Visualization:** Feature Engineering, Statistical Analysis, Data-Driven Decision Making, Tableau
 - **Other Skills:** Strategic Planning, Process Optimization, Automation, Cross-Department Collaboration.
+
+---
 
 ## Work Experience 
 
@@ -31,8 +33,12 @@ Data-driven professional with a strong foundation in Business Development and Op
 - **Machine Learning for Optimizing Website Engagement**: Designed and implemented a machine learning pipeline to predict high-traffic recipes and enhance homepage content selection. Conducted data validation, exploratory analysis, and feature engineering to address class imbalance and improve predictive accuracy. Delivered actionable recommendations to maximize user engagement and subscription rates. [Project Website](https://ricvic95.github.io/Recipe-ML-Modeling/)
 - **Data Science Project Portfolio**: Series of small-scale projects focused on key data science methodologies and applications. Each notebook demonstrates end-to-end workflows, from data preprocessing and exploratory data analysis to model selection and evaluation. Projects include work with supervised and unsupervised learning algorithms, SQL and data analysis and visualization. [Github Repository](https://github.com/RicVic95/Project-Portfolio)
 
+---
+
 ### Education 
 BSc. Business Management | Nova School of Business and Economics (_January 2020_) 
+
+--- 
 
 ### Courses and Certifications
 - Data Analyst Professional Certificate by DataCamp.
