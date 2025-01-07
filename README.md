@@ -1,9 +1,11 @@
 # Profile
 
+Data-driven professional with a strong foundation in Business Development and Operations, now transitioning into Data Science. Proficient in Python, SQL, and Machine Learning, with experience in generating insights from data to solve business challenges. Adept at analyzing data, optimizing processes, and automating workflows to support strategic decision-making. Skilled communicator, with the ability to translate complex data into actionable insights for stakeholders.
+
 ## Technical Skills
 - **Programming & Tools:** Python (Packages: Numpy, Pandas, ScikitLearn, Seaborn, Matplotlib), SQL, Excel, Jupyter Notebooks, Visual Studio Code, Git, Google Workspace.
 - **Machine Learning:** Supervised/Unsupervised Learning, Regression, Classification, Decision Trees, Random Forest, Clustering. 
-- **Data Analysis and Visualization:** Feature Engineering, Statistical Analysis, Data-Driven Decision Making.
+- **Data Analysis and Visualization:** Feature Engineering, Statistical Analysis, Data-Driven Decision Making, Tableau
 - **Other Skills:** Strategic Planning, Process Optimization, Automation, Cross-Department Collaboration.
 
 ## Work Experience 
@@ -25,17 +27,19 @@
 - Validated our business concept through iterative testing. Using a mix of cold and warm outreach, I successfully connected with leading European tourism universities known for travel-related education programs.
 
 ### Data Science Projects 
-- Project Notebooks: Series of small-scale projects focused on key data science methodologies and applications. Each notebook demonstrates end-to-end workflows, from data preprocessing and exploratory data analysis to model selection and evaluation. Projects include work with supervised and unsupervised learning algorithms, SQL and data analysis and visualization. [Repository](https://github.com/RicVic95/portfolio)
-- Predicting Customer Churn (In Progress): Developing supervised learning models to predict customer churn for a telecom company, utilizing algorithms such as Random Forests, Voting Classifier, Decision Trees, and Logistic Regression. [Repository](https://github.com/RicVic95/BinaryClassification)
-- Building a Fitness Tracker (In Progress): Process, visualize, and model accelerometer and gyroscope data to create a machine learning model that can classify barbell exercises and count repetitions (code along). [Repository](https://github.com/RicVic95/Fitness-Tracker)
+- **Hypothesis-Driven Sales Strategy Optimization**: Leveraged hypothesis testing and statistical analysis to evaluate the performance of three sales methods (Call, Email, and Email + Call) over six weeks of transactional data. Identified the most scalable strategy and delivered actionable insights to enhance revenue and resource allocation. [Project Website](https://ricvic95.github.io/Sales-Strategy-Analysis/)
+Machine Learning for Optimizing Website Engagement: Designed and implemented a machine learning pipeline to predict high-traffic recipes and enhance homepage content selection. Conducted data validation, exploratory analysis, and feature engineering to address class imbalance and improve predictive accuracy. Delivered actionable recommendations to maximize user engagement and subscription rates. [Project Website](https://ricvic95.github.io/Recipe-ML-Modeling/)
+- Data Science Project Portfolio: Series of small-scale projects focused on key data science methodologies and applications. Each notebook demonstrates end-to-end workflows, from data preprocessing and exploratory data analysis to model selection and evaluation. Projects include work with supervised and unsupervised learning algorithms, SQL and data analysis and visualization. [Github Repository](https://github.com/RicVic95/Project-Portfolio)
 
 ### Education 
 BSc. Business Management | Nova School of Business and Economics (_January 2020_) 
 
 ### Courses and Certifications
-- Data Analyst Associate by Data Camp. Credential ID: DAA0014473618699
-- Data Scientist by Data Camp. (Certification in Progress)
+- Data Analyst Professional Certificate by DataCamp.
+- Data Scientist Professional Certificate by DataCamp. 
+- Data Analyst Associate by DataCamp.
+- Data Scientist Associate by DataCamp. 
 - Python For Machine Learning and Data Science by José Portilla.
 - SQL Bootcamp by José Portilla.
-- Python Bootcamp by José
+- Python Bootcamp by José Portilla
 - Excel Specialist Certification by Microsoft.
