@@ -3,7 +3,7 @@
 ---
 
 ## Technical Skills
-- **Programming & Tools:** Python (Packages: Numpy, Pandas, ScikitLearn, Seaborn, Matplotlib), SQL, Excel, Jupyter Notebooks, Visual Studio Code, Git, Google Workspace.
+- **Programming & Tools:** Python (Packages: Numpy, Pandas, ScikitLearn, Seaborn, Matplotlib), SQL, Excel, Jupyter Notebooks, Visual Studio Code, Git, Google Workspace, Mixpanel.
 - **Machine Learning:** Supervised/Unsupervised Learning, Regression, Classification, Decision Trees, Random Forest, Clustering. 
 - **Data Analysis and Visualization:** Feature Engineering, Statistical Analysis, Data-Driven Decision Making, Tableau
 - **Other Skills:** Strategic Planning, Process Optimization, Automation, Cross-Department Collaboration.
