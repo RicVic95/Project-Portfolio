@@ -48,9 +48,21 @@
 ### Data Science Projects 
 <div style="text-align: justify;">
   <ul>
-    <li><strong>Hypothesis-Driven Sales Strategy Optimization:</strong> Leveraged hypothesis testing and statistical analysis to evaluate the performance of three sales methods (Call, Email, and Email + Call) over six weeks of transactional data. Identified the most scalable strategy and delivered actionable insights to enhance revenue and resource allocation. [Project Website](https://ricvic95.github.io/Sales-Strategy-Analysis/) </li>
-    <li><strong>Machine Learning for Optimizing Website Engagement:</strong> Designed and implemented a machine learning pipeline to predict high-traffic recipes and enhance homepage content selection. Conducted data validation, exploratory analysis, and feature engineering to address class imbalance and improve predictive accuracy. Delivered actionable recommendations to maximize user engagement and subscription rates. [Project Website](https://ricvic95.github.io/Recipe-ML-Modeling/) </li>
-    <li><strong>Data Science Project Portfolio:</strong> Series of small-scale projects focused on key data science methodologies and applications. Each notebook demonstrates end-to-end workflows, from data preprocessing and exploratory data analysis to model selection and evaluation. Projects include work with supervised and unsupervised learning algorithms, SQL and data analysis and visualization. [Github Repository](https://github.com/RicVic95/Project-Portfolio) </li>
+    <li>
+      <strong>Hypothesis-Driven Sales Strategy Optimization:</strong>
+      Leveraged hypothesis testing and statistical analysis to evaluate the performance of three sales methods (Call, Email, and Email + Call) over six weeks of transactional data. Identified the most scalable strategy and delivered actionable insights to enhance revenue and resource allocation.
+      <a href="https://ricvic95.github.io/Sales-Strategy-Analysis/" target="_blank">Project Website</a>
+    </li>
+    <li>
+      <strong>Machine Learning for Optimizing Website Engagement:</strong>
+      Designed and implemented a machine learning pipeline to predict high-traffic recipes and enhance homepage content selection. Conducted data validation, exploratory analysis, and feature engineering to address class imbalance and improve predictive accuracy. Delivered actionable recommendations to maximize user engagement and subscription rates.
+      <a href="https://ricvic95.github.io/Recipe-ML-Modeling/" target="_blank">Project Website</a>
+    </li>
+    <li>
+      <strong>Data Science Project Portfolio:</strong>
+      Series of small-scale projects focused on key data science methodologies and applications. Each notebook demonstrates end-to-end workflows, from data preprocessing and exploratory data analysis to model selection and evaluation. Projects include work with supervised and unsupervised learning algorithms, SQL and data analysis and visualization.
+      <a href="https://github.com/RicVic95/Project-Portfolio" target="_blank">Github Repository</a>
+    </li>
   </ul>
 </div>
 
@@ -70,9 +82,7 @@
 
 ### Education 
 <div style="text-align: justify;">
-  BSc. Business Management | Nova School of Business and Economics
-  <br>
-  <em>January 2020</em>
+  <strong>BSc. Business Management</strong> | Nova School of Business and Economics <em>Class of 2021</em>
 </div>
 
 ---
