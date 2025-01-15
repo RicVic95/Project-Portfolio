@@ -12,6 +12,17 @@
 
 ## Work Experience 
 
+**Freelance Food Tour Guide @Eating Europe** 
+(_March 2023 - October 2024_) 
+- Simultaneously pursued self-directed learning in Python, SQL, and machine learning, completing
+professional certifications and building a portfolio of data science projects.
+- Tailored complex historical narratives to be relatable and engaging, a skill directly transferable to
+presenting actionable insights in data analysis.
+- Delivered engaging food tours to diverse groups, honing communication and storytelling skills while
+showcasing Lisbon’s rich history and culinary culture.
+- Managed time effectively to balance freelance work with an intensive focus on upskilling,
+demonstrating self-motivation and a commitment to career development.
+
 **Jr. Business Development and Operations Manager @Pipeline.gg**
 (_May 2022 - March 2023_)
 - Utilized data-driven approaches to generate and monitor KPIs aligned with business objectives, providing leadership with real-time insights for agile decision-making and strategy adjustments.
