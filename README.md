@@ -2,7 +2,7 @@
 
 ---
 
-## Work Experience 
+## Professional Experience 
 
 **Career Transition & Professional Development**
 (_April 2023 - Present_) 
