@@ -1,5 +1,8 @@
 title: Ricardo Vicencio
 logo: /assets/img/profile_photo.jpg
-description: Data-driven professional with expertise in Python, SQL, and Machine Learning, leveraging a strong foundation in Business Development and Operations to solve complex business challenges. Experienced in data analysis, process optimization, and workflow automation to drive strategic decision-making. Proven ability to deliver impactful insights and solutions that align with business objectives and create measurable value.
+description: |
+  Data-driven professional with expertise in Python, SQL, and Machine Learning,
+  leveraging a strong foundation in Business Development and Operations to solve
+  complex business challenges.
 show_downloads: false
 theme: jekyll-theme-minimal
