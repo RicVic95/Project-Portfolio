@@ -1,27 +1,14 @@
 # Profile
-
----
-
-## Technical Skills
-- **Programming & Tools:** Python (Packages: Numpy, Pandas, ScikitLearn, Seaborn, Matplotlib), SQL, Excel, Jupyter Notebooks, Visual Studio Code, Git, Google Workspace, Mixpanel.
-- **Machine Learning:** Supervised/Unsupervised Learning, Regression, Classification, Decision Trees, Random Forest, Clustering. 
-- **Data Analysis and Visualization:** Feature Engineering, Statistical Analysis, Data-Driven Decision Making, Tableau
-- **Other Skills:** Strategic Planning, Process Optimization, Automation, Cross-Department Collaboration.
-
 ---
 
 ## Work Experience 
 
-**Freelance Food Tour Guide @Eating Europe** 
-(_March 2023 - October 2024_) 
-- Simultaneously pursued self-directed learning in Python, SQL, and machine learning, completing
-professional certifications and building a portfolio of data science projects.
-- Tailored complex historical narratives to be relatable and engaging, a skill directly transferable to
-presenting actionable insights in data analysis.
-- Delivered engaging food tours to diverse groups, honing communication and storytelling skills while
-showcasing Lisbon’s rich history and culinary culture.
-- Managed time effectively to balance freelance work with an intensive focus on upskilling,
-demonstrating self-motivation and a commitment to career development.
+**Career Transition & Professional Development**
+(_April 2023 - Present_) 
+- Developed practical expertise in Python, SQL, and machine learning through rigorous self-directed learning, earning industry-recognized certifications in Data Analysis and Data Science to enhance expertise and deliver actionable, real-world solutions.
+- Leveraged Python in a project aimed at optimizing sales strategies, applying advanced statistical analysis and hypothesis testing to analyze transactional data. Delivered actionable insights to streamline resources, improve efficiency, and enhance revenue generation.
+- Designed a machine learning pipeline that improved the identification of high-traffic website content by 20%, leveraging data to enhance content recommendations, foster user engagement, and provide actionable insights for marketing and product strategies.
+- Worked as a freelance food tour guide to enhance storytelling and communication skills, crafting engaging narratives to connect with diverse audiences and effectively convey complex historical and cultural themes in a relatable and impactful way.
 
 **Jr. Business Development and Operations Manager @Pipeline.gg**
 (_May 2022 - March 2023_)
@@ -38,17 +25,23 @@ demonstrating self-motivation and a commitment to career development.
 **Co-Founder & Head of Business Development @Sightseeing Lisbon (_June 2018 - March 2020_)**
 - Integrated social campaigns into tourism routes, allocating 20% of revenue to causes like rehabilitation and women empowerment. This approach generated over 10,000 euros, built partnerships with academic institutions, and increased awareness of sustainability in tourism.
 - Validated our business concept through iterative testing. Using a mix of cold and warm outreach, I successfully connected with leading European tourism universities known for travel-related education programs.
+---
 
 ### Data Science Projects 
 - **Hypothesis-Driven Sales Strategy Optimization**: Leveraged hypothesis testing and statistical analysis to evaluate the performance of three sales methods (Call, Email, and Email + Call) over six weeks of transactional data. Identified the most scalable strategy and delivered actionable insights to enhance revenue and resource allocation. [Project Website](https://ricvic95.github.io/Sales-Strategy-Analysis/)
 - **Machine Learning for Optimizing Website Engagement**: Designed and implemented a machine learning pipeline to predict high-traffic recipes and enhance homepage content selection. Conducted data validation, exploratory analysis, and feature engineering to address class imbalance and improve predictive accuracy. Delivered actionable recommendations to maximize user engagement and subscription rates. [Project Website](https://ricvic95.github.io/Recipe-ML-Modeling/)
 - **Data Science Project Portfolio**: Series of small-scale projects focused on key data science methodologies and applications. Each notebook demonstrates end-to-end workflows, from data preprocessing and exploratory data analysis to model selection and evaluation. Projects include work with supervised and unsupervised learning algorithms, SQL and data analysis and visualization. [Github Repository](https://github.com/RicVic95/Project-Portfolio)
+---
 
+## Technical Skills
+- **Programming & Tools:** Python (Packages: Numpy, Pandas, ScikitLearn, Seaborn, Matplotlib), SQL, Excel, Jupyter Notebooks, Visual Studio Code, Git, Google Workspace, Mixpanel.
+- **Machine Learning:** Supervised/Unsupervised Learning, Regression, Classification, Decision Trees, Random Forest, Clustering. 
+- **Data Analysis and Visualization:** Feature Engineering, Statistical Analysis, Data-Driven Decision Making, Tableau
+- **Other Skills:** Strategic Planning, Process Optimization, Automation, Cross-Department Collaboration.
 ---
 
 ### Education 
 BSc. Business Management | Nova School of Business and Economics (_January 2020_) 
-
 --- 
 
 ### Courses and Certifications
