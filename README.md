@@ -8,6 +8,7 @@
   <strong>Career Transition & Professional Development</strong>
   <br>
   <em>April 2023 - Present</em>
+  <br>
   <ul>
     <li>Developed practical expertise in Python, SQL, and machine learning through rigorous self-directed learning, earning industry-recognized certifications in Data Analysis and Data Science to enhance expertise and deliver actionable, real-world solutions.</li>
     <li>Leveraged Python in a project aimed at optimizing sales strategies, applying advanced statistical analysis and hypothesis testing to analyze transactional data. Delivered actionable insights to streamline resources, improve efficiency, and enhance revenue generation.</li>
@@ -18,6 +19,7 @@
   <strong>Jr. Business Development and Operations Manager @Pipeline.gg</strong>
   <br>
   <em>May 2022 - March 2023</em>
+  <br>
   <ul>
     <li>Utilized data-driven approaches to generate and monitor KPIs aligned with business objectives, providing leadership with real-time insights for agile decision-making and strategy adjustments.</li>
     <li>Conducted in-depth customer behavior analysis, leading to a 3x increase in website conversion rates and a 50% boost in weekly new visitors by aligning business value propositions with customer pain points.</li>
@@ -28,6 +30,7 @@
   <strong>Business Development Program Coordinator @Pipeline.gg</strong>
   <br>
   <em>August 2021 - May 2022</em>
+  <br>
   <ul>
     <li>Spearheaded our partnership with Facebook Gaming, recruiting a diverse cohort of creators through strategic categorization and persuasive outreach, leading to the generation of over $USD 600,000 in revenue.</li>
     <li>Devised a system to streamline tracking of our expanding Facebook Gaming creator program. Automating progress updates and minimizing errors, leading to a 3x improvement in processing efficiency.</li>
@@ -37,6 +40,7 @@
   <strong>Co-Founder & Head of Business Development @Sightseeing Lisbon</strong>
   <br>
   <em>June 2018 - March 2020</em>
+  <br>
   <ul>
     <li>Integrated social campaigns into tourism routes, allocating 20% of revenue to causes like rehabilitation and women empowerment. This approach generated over 10,000 euros, built partnerships with academic institutions, and increased awareness of sustainability in tourism.</li>
     <li>Validated our business concept through iterative testing. Using a mix of cold and warm outreach, I successfully connected with leading European tourism universities known for travel-related education programs.</li>
